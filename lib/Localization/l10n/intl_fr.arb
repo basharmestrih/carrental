@@ -1,0 +1,17 @@
+{
+    "greeting" : "Bienvenue sur l’application de location de voiture",
+    "bestPlaceToRide": "Votre meilleur endroit pour rouler n'importe où",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "loginbutton": "Connexion",
+    "signUpEmail": "Inscription par e-mail",
+    "forgotPassword": "Mot de passe oublié",
+    "continueWith": "Ou continuer avec:",
+    "googleLoginSuccess": "Connexion Google réussie",
+    "googleLoginFailure": "Échec de la connexion Google : {error}",
+    "facebookLogin": "Connexion Facebook",
+    "loginSuccess": "Connexion réussie",
+    "loginFailed": "Échec de la connexion : {error}"
+      
+      
+}

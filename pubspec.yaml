@@ -1,0 +1,60 @@
+name: carrentalapp
+description: "A new Flutter project."
+
+# Prevent the package from being accidentally published to pub.dev.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# Version and build number for your application.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.8.0
+  provider: ^6.1.2
+  firebase_auth: ^5.3.3
+  google_sign_in: ^6.2.1
+  google_fonts: ^6.2.1
+  curved_navigation_bar: ^1.0.6
+  file_picker: ^8.1.3
+  cloud_firestore: ^5.5.0
+  bloc: ^8.1.4
+  flutter_bloc: ^8.1.6
+  firebase_messaging: ^15.1.5
+  googleapis_auth: ^1.6.0
+  firebase_storage: ^12.3.6
+  flutter_localizations:
+    sdk: flutter
+  flutter_stripe: ^11.2.0
+  open_street_map_search_and_pick: ^0.1.1
+  permission_handler: ^11.1.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  equatable: ^2.0.7
+
+# Add your assets under the flutter section.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons8-car-80.png
+    - assets/car.png
+    - assets/icons8-car-64.png
+    - assets/protection.png
+    - assets/Peugeot-508-Sport-Engineered-concept-front-side-view.jpg
+    - assets/peugeot-brand-logo-symbol-with-name-black-design-french-car-automobile-illustration-free-vector.jpg
+    - assets/signature-with-a-pen.png
+    - assets/rent-car.png
+    - assets/unnamed-7.jpg
+    - assets/sven-brandsma-HyhFd9xT82k-unsplash.jpg
+    - assets/vehicle.png
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter_intl:
+  enabled: true

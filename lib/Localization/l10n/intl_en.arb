@@ -1,0 +1,15 @@
+{
+    "greeting": "Welcome to the car rental app",
+    "bestPlaceToRide": "Your best place to ride anywhere",
+    "email": "Email",
+    "password": "Password",
+    "loginbutton": "Login",
+    "signUpEmail": "Sign up by email",
+    "forgotPassword": "Forgot password",
+    "continueWith": "Or continue with:",
+    "googleLoginSuccess": "Google login successful",
+    "googleLoginFailure": "Google login failed: {error}",
+    "facebookLogin": "Facebook login",
+    "loginSuccess": "Login successful",
+    "loginFailed": "Login failed: {error}"
+}
